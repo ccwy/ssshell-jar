@@ -1,4 +1,4 @@
-#!/bin/ssr
+#!/bin/bash
 
 yum -y install python-setuptools && easy_install pip
 
